@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/bubblegummi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/bubblegummi" height="30" width="40" /></a>
+<a href="https://dev.to/bubblegummi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/bubblegummi" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/dianahogescu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dianahogescu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bubblegummi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20173209/bubblegummi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20173209/bubblegummi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20173209/bubblegummi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
