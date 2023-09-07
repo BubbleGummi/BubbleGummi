@@ -1,4 +1,8 @@
-<h1 align="center">Hello There!</p>
+<h1 align="center">Hello there, I'm Diana</h1>
+
+###
+
+<h3 align="center">:computer: Web and .NET developer :computer:</h3>
 
 ###
 
