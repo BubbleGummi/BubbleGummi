@@ -1,3 +1,7 @@
+<p align="center">Hello There!</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
@@ -29,10 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BubbleGummi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=BubbleGummi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/BubbleGummi/BubbleGummi/output/snake.svg" alt="Snake animation" />
 
 ###
 
